@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Adriyan (EdiIsNotHere)
 
-<!--
-**EdiIsNotHere/EdiIsNotHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Frontend Developer | Passionate about HTML, CSS, and JavaScript
 
-Here are some ideas to get you started:
+- 🔭 Currently working on improving UI/UX projects and interactive web apps
+- 💬 Ask me about frontend development, styling, and JavaScript tricks
+- 📫 How to reach me: [EdiIsNotHere@gmail.com] (replace with your email or socials)
+- 🛠️ Tools & Technologies: VS Code, Git, GitHub, Chrome DevTools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+
+<!-- Add your best projects here with links -->
+- [Card Stack UI](https://github.com/EdiIsNotHere/card-stack) - Interactive card stack with hover effects
+
+
+---
+
+### 📊 GitHub Stats
+
+![Adriyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdiIsNotHere&show_icons=true&theme=radical)
+
+---
+
+### 📫 Find me around the web:
+
+[![LinkedIn](https://www.linkedin.com/in/adriyan-shayani-984a2b348/)  
+
+---
+
+Thanks for stopping by! 👋
