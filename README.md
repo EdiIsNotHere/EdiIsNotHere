@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adriyan (EdiIsNotHere)
 
-### 🌱 Frontend Developer | Passionate about HTML, CSS, and JavaScript
+### 🌱 Backend Developer | Passionate about HTML, php, and JavaScript
 
 - 🔭 Currently working on improving UI/UX projects and interactive web apps
 - 💬 Ask me about Backend development, and php tricks
