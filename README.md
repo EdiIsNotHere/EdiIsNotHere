@@ -3,7 +3,7 @@
 ### 🌱 Frontend Developer | Passionate about HTML, CSS, and JavaScript
 
 - 🔭 Currently working on improving UI/UX projects and interactive web apps
-- 💬 Ask me about frontend development, styling, and JavaScript tricks
+- 💬 Ask me about Backend development, and php tricks
 - 📫 How to reach me: [EdiIsNotHere@gmail.com] (replace with your email or socials)
 - 🛠️ Tools & Technologies: VS Code, Git, GitHub, Chrome DevTools
 
