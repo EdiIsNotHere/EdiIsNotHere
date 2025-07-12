@@ -12,7 +12,7 @@
 ### 🚀 Featured Projects
 
 <!-- Add your best projects here with links -->
-- [Card Stack UI](https://github.com/EdiIsNotHere/card-stack) - Interactive card stack with hover effects
+- [Card Stack](https://github.com/EdiIsNotHere/card-stack) - Interactive card stack with hover effects
 
 
 ---
