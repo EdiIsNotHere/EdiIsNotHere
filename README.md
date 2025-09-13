@@ -1,15 +1,9 @@
-# 👋 Hi, I'm Adriyan (EdiIsNotHere)
+# 👋 Hi, I'm Adriyan (SWE)
 
-### 🌱 Backend Developer | Passionate about HTML, php,JavaScript and python
+### 🌱 CyberSecurity | HTML, php,JavaScript,sql and python
 
 - 🛠️ Tools & Technologies: VS Code, Git, GitHub, Chrome DevTools
 
----
-
-### 🚀 Featured Projects
-
-<!-- Add your best projects here with links -->
-- [Card Stack](https://github.com/EdiIsNotHere/card-stack) - Interactive card stack with hover effects
 
 
 ---
